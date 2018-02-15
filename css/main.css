@@ -11,8 +11,38 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.watermelon-header {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.starfruit-header {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.persimmon-header {
+  font-family: Comfortaa, sans-serif;
 }
